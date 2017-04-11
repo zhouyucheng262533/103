@@ -1,11 +1,11 @@
 **MarkDowm练习使用**
 
-[什么是MarkDowm](http://baike.baidu.com/link?url=L4GPTbdTzjvLq1E1XyLWHZ48n2_eRVszqRJVgqddro03NAmtJV0gee9fKlsM1yXGCTsqLW4FHqXwp-e4Ql_MhK)
+[什么是MarkDowm](http://www.mgtv.com/b/312289/3882167.html?cxid=95kqkw8n6)
 
-[知乎讨论](http://www.zhihu.com/question/20409634)
+[知乎讨论](http://www.mgtv.com/b/312289/3883645.html)
 
-[推荐文章(也是让我好奇markdown的文章)](http://www.jianshu.com/p/3b4df7857ce7)
+[推荐文章(也是让我好奇markdown的文章)](http://www.mgtv.com/b/312289/3885143.html)
 
-[简明教程](http://wowubuntu.com/markdown/basic.html)
+[简明教程](http://www.mgtv.com/b/312289/3885178.html)
 
-[完整教程](http://wowubuntu.com/markdown/index.html)
+[完整教程](http://www.mgtv.com/b/312289/3886362.html)
