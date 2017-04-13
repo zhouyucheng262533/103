@@ -17,7 +17,4 @@
 
 <a href="http://www.codecogs.com/eqnedit.php?latex=x^{y^z}=(1&plus;e^x)^{-2xy^w&space;}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x^{y^z}=(1&plus;e^x)^{-2xy^w&space;}" title="x^{y^z}=(1+e^x)^{-2xy^w }" /></a>
 
-$$
-f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}} e^{ -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2 } \tag{1}
-$$
-https://kerzol.github.io/markdown-mathjax/editor.html
+
