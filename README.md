@@ -17,5 +17,3 @@
 $$
 f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}} e^{ -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2 } \tag{1}
 $$
-
-where $\mu$ is the mean value, $\sigma^2$ is standard deviation.
