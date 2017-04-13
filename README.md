@@ -12,4 +12,4 @@
 
 [![](https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1491893949&di=0ba3f4d68464d64ea3d1c88bb8ee82cc&src=http://wx3.sinaimg.cn/thumb150/006iMda3gy1fefux3t35pj30g40g4wfw.jpg "不要点击")](http://www.mod.gov.cn/)
 
-<a href="http://www.codecogs.com/eqnedit.php?latex=x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=x^{y^z}=(1&plus;e^x)^{-2xy^w&space;}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x^{y^z}=(1&plus;e^x)^{-2xy^w&space;}" title="x^{y^z}=(1+e^x)^{-2xy^w }" /></a>
