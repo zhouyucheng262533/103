@@ -12,4 +12,6 @@
 
 [![](https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1491893949&di=0ba3f4d68464d64ea3d1c88bb8ee82cc&src=http://wx3.sinaimg.cn/thumb150/006iMda3gy1fefux3t35pj30g40g4wfw.jpg "不要点击")](http://www.mod.gov.cn/)
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+$$
+J(\theta) = \frac 1 2 \sum_{i=1}^m (h_\theta(x^{(i)})-y^{(i)})^2
+$$
