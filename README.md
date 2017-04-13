@@ -1,4 +1,7 @@
-**MarkDowm练习使用**
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>**MarkDowm练习使用**
 
 [用途](http://www.mgtv.com/b/312289/3882167.html?cxid=95kqkw8n6)
 
@@ -17,3 +20,4 @@
 $$
 f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}} e^{ -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2 } \tag{1}
 $$
+$x^{y^z}=(1+e^x)^{-2xy^w}$
